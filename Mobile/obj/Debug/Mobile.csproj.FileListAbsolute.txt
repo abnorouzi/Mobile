@@ -1,0 +1,24 @@
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\Mobile.exe
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\Mobile.pdb
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.Properties.Resources.resources
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.csproj.GenerateResource.Cache
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.exe
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.pdb
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.frmMain.resources
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Win.dll
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Win.xml
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Utils.xml
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\FarsiLibrary.Resources.xml
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.frmCustomers.resources
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\System.Data.SQLite.dll
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\bin\Debug\Mobile.exe.config
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.Services.resources
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.Shop.resources
+C:\Users\abnorouzi\Documents\Visual Studio 2013\Projects\Mobile\Mobile\obj\Debug\Mobile.Factor.resources
+D:\Mobile\Mobile\bin\Debug\Mobile.exe.config
+D:\Mobile\Mobile\obj\Debug\Mobile.exe
+D:\Mobile\Mobile\obj\Debug\Mobile.pdb
